@@ -14,3 +14,31 @@ body{background-color: #5D2A42;
     padding-bottom: 2%; 
     padding-right: 4%;
 }
+
+.contenedor{ background-color: none;
+    text-align: center;
+    height: 400px; 
+    width: 80%; 
+    margin-left: 10%; 
+    margin-right: 10%;  
+}
+
+.CuadroDobleCentrado1{background-color: #FCB1A6;
+    width: 50%;
+    float: left;  
+    height: 400px; 
+    padding-top: 1%; 
+    padding-bottom: 1%; 
+
+}
+.CuadroDobleCentrado2{
+    background-color: #FFDCCC;
+    width: 50%;
+    height: 100%; 
+    padding-top: 1%;  
+    padding-bottom: 1%; 
+    float: right;
+}
+.imagenes{                     /* Arreglar imagenes y luego borrar comentario--> */ 
+    width: 100px;
+}
