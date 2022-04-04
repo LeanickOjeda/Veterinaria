@@ -1,11 +1,11 @@
 /* Informacion general*/ 
-body{background-color: #5D2A42;
+body{background-color: #EEEE;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 /* Ids*/ 
 #textomedio {text-align: center;}
 /* Clases */ 
-.boxinfo{ background-color: #FB6376; 
+.boxinfo{ background-color: #FFFF; 
     width: 80%; 
     margin-left: 10%; 
     margin-right: 10%;  
