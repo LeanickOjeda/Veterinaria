@@ -60,6 +60,7 @@ body{background-color: #5D2A42;
 }
 
 .contacto{
+    text-align: center;
     background-color: #FB6376; 
     width: 80%; 
     margin-left: 10%; 
@@ -68,4 +69,14 @@ body{background-color: #5D2A42;
     padding-top: 2%; 
     padding-bottom: 2%; 
     padding-right: 4%;
+}
+.footer{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.link{
+    color: white;
+}
+.link:hover{
+    color: red;
 }
