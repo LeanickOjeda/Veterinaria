@@ -40,7 +40,7 @@ body{background-color: #5D2A42;
     padding-bottom: 1%; 
     float: right;
 }
-.imagenes{                     /* Arreglar imagenes y luego borrar comentario--> */ 
+.imagenes{                    
     width: 80%;
     padding-left: 20%;
     
@@ -82,6 +82,6 @@ body{background-color: #5D2A42;
 .link{
     color: white;
 }
-.link:hover{
+.link:hover{  /* Permite cambiar el color del link al pasar el mouse por encima */ 
     color: red;
 }
