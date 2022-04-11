@@ -85,3 +85,8 @@ body{background-color: #5D2A42;
 .link:hover{  /* Permite cambiar el color del link al pasar el mouse por encima */ 
     color: red;
 }
+.btn-primary{
+    color: #5D2A42;
+    background-color: darkgoldenrod;
+    border-color:red;
+}
