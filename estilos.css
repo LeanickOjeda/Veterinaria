@@ -48,10 +48,8 @@ body{background-color: #5D2A42;
     float: right;
 }
 .imagenes{                    
-    width: 90%;
-    padding-left: 10%;
-    
-    
+    width: 25%;
+    height: 25%;
 }
 .imagenes2{
     width: 55%;
@@ -61,6 +59,14 @@ body{background-color: #5D2A42;
 .imagenes3{
     width: 90%;
     padding-left: 10%;
+}
+.imagenes4{
+    width: 50%;
+    height: 50%;
+}
+.imagenes5{
+    width: 60%;
+    height: 60%;
 }
 .recomendacion{background-color: #EBE18D; 
     width: 80%;
@@ -102,3 +108,11 @@ body{background-color: #5D2A42;
     background-color: darkgoldenrod;
     border-color:red;
 }
+.separador{
+    background-color:#FFE082; 
+    padding-top: 1%; 
+    padding-bottom: 1%; 
+    margin-left: 10%; 
+    margin-right: 10%;
+}
+
