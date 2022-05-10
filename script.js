@@ -1,7 +1,3 @@
-
-
-
-
 /*AVES NOMBRES Y WEAS JQUERY API*/
 $.getJSON('https://aves.ninjas.cl/api/birds/76-buteo-albigula', 
     function(data) {
@@ -13,8 +9,3 @@ $.getJSON('https://aves.ninjas.cl/api/birds/76-buteo-albigula',
     }).appendTo("#aves");}).fail(function() {
     console.log('Error al consumir la API!');
 });
-
-
-
-
-
