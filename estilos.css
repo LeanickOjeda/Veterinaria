@@ -108,9 +108,9 @@ body{background-color: #5D2A42;
     color: red;
 }
 .btn-primary{
-    color: #5D2A42;
-    background-color: darkgoldenrod;
-    border-color:red;
+    color: black;
+    background-color: lightskyblue;
+    border-color:blue;
 }
 .contenedor2{ background-color: #EBE18D;
 
